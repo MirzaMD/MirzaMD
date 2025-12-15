@@ -30,5 +30,5 @@ A web app built using Next.js (frontend) and FastAPI (backend), leveraging Gemin
 ### [Stratus](https://stratos-cp2h.vercel.app/)
 A MERN stack web application to organize VTU student results chronologically, built with MongoDB, Express.js, and Next.js.
 
-### [Brainbox Hub]([https://stratos-cp2h.vercel.app/](https://mirzamd.github.io/allInOne/))
+### [Brainbox Hub](https://mirzamd.github.io/allInOne/)
 A tool filled website comprising games, scientific tools, etc (build using React JS).  
