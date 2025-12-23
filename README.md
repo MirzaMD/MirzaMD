@@ -15,6 +15,9 @@ I am a passionate ML Engineer / Full-Stack Developer with experience in building
 
 ## Featured Projects
 
+### [House Price Predictor](https://house-price-predictor-five.vercel.app/)
+A web application provides an estimate prediction of the prices of the houses in Bangalore(India), modelled trained on real world dataset. Tech-stack (Next.js, FastAPI), modelled build and trained using PYTorch. 
+
 ### [Real Media](https://real-media.vercel.app/login)
 A web application with third-party login authentication (GitHub and Discord) using MERN stack (Next.js, Express.js, MongoDB). Implemented web sockets for real-time texting and sessions for secure logins.
 
